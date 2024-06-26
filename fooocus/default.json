@@ -5,7 +5,7 @@
     "default_loras": [
         [
             true,
-            "None",
+            "sd_xl_offset_example-lora_1.0.safetensors",
             0.1
         ],
         [
@@ -39,15 +39,16 @@
     "default_styles": [
         "Fooocus V2",
         "Fooocus Enhance",
-        "Fooocus Sharp",
-        "Fooocus Photograph",
+        "Fooocus Sharp"
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
         "realismEngineSDXL_v30VAE.safetensors": "https://civitai.com/api/download/models/293240?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+    },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
         "juggernautXL_version7Rundiffusion.safetensors",

@@ -80,6 +80,7 @@
         "1728*576"
     ],
     "default_aspect_ratio": "1080*1080",
+    "default_inpaint_engine_version": "v2.6",
     "default_save_metadata_to_images": true,
     "default_metadata_scheme": "fooocus",
     "metadata_created_by": "ldazrz"

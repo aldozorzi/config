@@ -1,0 +1,86 @@
+{
+    "path_checkpoints": [
+        "/kaggle/working/Fooocus/models/checkpoints"
+    ],
+    "path_loras": [
+        "/kaggle/working/Fooocus/models/loras"
+    ],
+    "path_embeddings": "/kaggle/working/Fooocus/models/embeddings",
+    "path_vae_approx": "/kaggle/working/Fooocus/models/vae_approx",
+    "path_vae": "/kaggle/working/Fooocus/models/vae",
+    "path_upscale_models": "/kaggle/working/Fooocus/models/upscale_models",
+    "path_inpaint": "/kaggle/working/Fooocus/models/inpaint",
+    "path_controlnet": "/kaggle/working/Fooocus/models/controlnet",
+    "path_clip_vision": "/kaggle/working/Fooocus/models/clip_vision",
+    "path_fooocus_expansion": "/kaggle/working/Fooocus/models/prompt_expansion/fooocus_expansion",
+    "path_wildcards": "/kaggle/working/Fooocus/wildcards",
+    "path_safety_checker": "/kaggle/working/Fooocus/models/safety_checker",
+    "path_outputs": "/kaggle/working/Fooocus/outputs",
+    "default_loras": [
+        [
+            false,
+            "sd_xl_offset_example-lora_1.0.safetensors",
+            0.1
+        ],
+        [
+            false,
+            "None",
+            1.0
+        ],
+        [
+            false,
+            "None",
+            1.0
+        ],
+        [
+            false,
+            "None",
+            1.0
+        ],
+        [
+            false,
+            "None",
+            1.0
+        ]
+    ],
+    "default_styles": [
+        "Fooocus V2",
+        "Fooocus Enhance",
+        "Fooocus Sharp",
+        "Fooocus Photograph"
+    ],
+    "default_image_number": 4,
+    "available_aspect_ratios": [
+        "704*1408",
+        "704*1344",
+        "768*1344",
+        "768*1280",
+        "832*1216",
+        "832*1152",
+        "896*1152",
+        "896*1088",
+        "960*1088",
+        "960*1024",
+        "1024*1024",
+        "1080*1080",
+        "1024*960",
+        "1088*960",
+        "1088*896",
+        "1152*896",
+        "1152*832",
+        "1216*832",
+        "1280*768",
+        "1344*768",
+        "1344*704",
+        "1408*704",
+        "1472*704",
+        "1536*640",
+        "1600*640",
+        "1664*576",
+        "1728*576"
+    ],
+    "default_aspect_ratio": "1080*1080",
+    "default_save_metadata_to_images": true,
+    "default_metadata_scheme": "fooocus",
+    "metadata_created_by": "ldazrz"
+}

@@ -1,11 +1,11 @@
 {
-    "default_model": "realismEngineSDXL_v30VAE.safetensors",
+    "default_model": "animaPencilXL_v100.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
             false,
-            "sd_xl_offset_example-lora_1.0.safetensors",
+            "None",
             0.1
         ],
         [
@@ -43,7 +43,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "realismEngineSDXL_v30VAE.safetensors": "https://civitai.com/api/download/models/293240?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "animaPencilXL_v100.safetensors": "https://huggingface.co/lllyasviel/fav_models/raw/main/fav/animaPencilXL_v100.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {

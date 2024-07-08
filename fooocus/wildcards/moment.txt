@@ -1,3 +1,4 @@
 sunrise
+day
 sunset
 night

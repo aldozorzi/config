@@ -43,7 +43,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "realismEngineSDXL_v30VAE.safetensors": "hhttps://civitai.com/api/download/models/293240?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "realismEngineSDXL_v30VAE.safetensors": "https://civitai.com/api/download/models/293240?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {

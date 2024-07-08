@@ -1,0 +1,10 @@
+Casual
+Formal
+Business casual
+Sporty
+Bohemian
+Vintage
+Streetwear
+Punk
+Gothic
+Minimalist

@@ -1,0 +1,15 @@
+Ectomorph
+Endomorph
+Mesomorph
+Athletic
+Stocky
+Slim
+Curvy
+Petite
+Plus-size
+Tall and Muscular
+Average
+Overweight
+Underweight
+Skinny
+Pear-shaped
